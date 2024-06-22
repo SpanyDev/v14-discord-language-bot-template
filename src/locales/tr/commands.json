@@ -1,0 +1,6 @@
+{
+    "ping": {
+        "description": "Pong!",
+        "usage": "ping"
+    }
+}
