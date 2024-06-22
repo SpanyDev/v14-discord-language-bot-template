@@ -49,10 +49,7 @@ Bu proje, Discord sunucularında kullanıcıların Discord üzerindeki dil ayarl
 Katkılarınızı memnuniyetle karşılıyoruz! Lütfen aşağıdaki adımları izleyin:
 
 1. Bu projeyi forklayın.
-2. Yeni bir dal (`feature-branch` gibi) oluşturun.
-3. Değişikliklerinizi yapın ve commit edin.
-4. Değişikliklerinizi push edin.
-5. Bir pull request açın.
+2. Bu projeye star atın.
 
 ## 📜 Lisans
 
